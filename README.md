@@ -1,4 +1,4 @@
-# INFORME N° 4
+# INFORME N° 5
 
 1.	OBJETIVOS
     
@@ -10,7 +10,7 @@
 
 2.	MARCO TEORICO
 
-    ![Diagrama en blanco](https://user-images.githubusercontent.com/116808294/210154623-98eb752f-514d-4520-bbf6-a3123cd7f064.jpeg)
+    
 
 
 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
