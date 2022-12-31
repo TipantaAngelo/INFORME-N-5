@@ -1,24 +1,12 @@
 # INFORME N° 4
 
 1.	OBJETIVOS
-
-    1.1 GENERAL
     
-    •	IDENTIFICAR LOS CIRCUITOS CUANDO ESTAN CONECTADOS EN SERIE Y PARALELO
+    •	ENTENDER LOS CONCEPTOS E IMPLEMENTACIONES DEL MAGNETISMO Y ELECTROMAGETISMO
+   
+    •	ANALIZAR LOS DISTINTOS COMPONENTES ELECTROMAGNETICOS JUNTO CON LA LEY DE FARADAY
     
-    •	DETERMINAR EL EFECTO DE CARGA DE UN VOLTIMETRO EN UN CIRCUITO
-    
-    •	LOGRAR ENCONTRAR LAS FALLAS QUE EXISTEN EN UN CIRCUITO EN SERIE-PARALELO
-    
-    •	ANALIZAR UN PUENTE DE WHEARSTONE
-    
-    1.2 ESDPECIFICOS
-    
-    •	MEMORIZAR LA FORMULA DE CONVERSION DE CIRCUITOS DELTA - Y Y VICEVERZA
-    
-    •	ESTUDIAR EL TEOREMA DE THEVRNIN Y NORTON Y APLICARLO EN EJERCICIOS
-    
-    •	REALIZAR LOS EJERCICIOS PROPUESTOS EN EL TEXTO
+    •	REPASAR LOS MÉTODOS APRENDIDOS PARA LA RESOLUCIÓN DE CIRCUITOS
 
 2.	MARCO TEORICO
 
@@ -26,71 +14,156 @@
 
 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
-    CAPITULO 7
+    CAPITULO 9
     
-    SECCIÓN 7–1 IDENTIFICACIÓN DE RELACIONES EN SERIE-PARALELO
+    SECCIÓN 9–1 ECUACIONES SIMULTÁNEAS EN EL ANÁLISIS DE CIRCUITOS
     
-    2.	Visualice y trace los siguientes circuitos en serie-paralelo: 
+    2.	EVALÚE CADA DETERMINANTE:
         
-        a)	Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie 
+        ![image](https://user-images.githubusercontent.com/116808294/210153632-a02f7314-6499-47e9-a95a-9de3a096a03d.png)
         
-        ![image](https://user-images.githubusercontent.com/116808294/208333466-ab009871-08f6-4e72-bb25-dd916fc4cfc0.png)
+    4. 	EVALÚE CADA UNO DE LOS DETERMINANTES: 
         
-        b)	Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+        ![image](https://user-images.githubusercontent.com/116808294/210153670-d71f8aa7-5dbe-4db0-bc4b-ff540f76e19e.png)
+    
+    6.	DETERMINE I3 EN EL EJEMPLO 9-4
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153685-e80cb505-48e2-4171-bb8b-3e46a4ffa4a5.png)
+    
+    8.	DETERMINE V1 , V2 , V3 Y V4 RESOLVIENDO EL SIGUIENTE CONJUNTO DE ECUACIONES CON UNA CALCULADORA:
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153705-ee0e9745-742e-42f9-93cc-4c41402f8312.png)
+
+    10.	RESUELVA LAS TRES ECUACIONES SIMULTÁNEAS DEL PROBLEMA 7 CON SU CALCULADORA.  
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153717-dd630b1d-bf5e-4589-ad19-1077f801d0db.png)
         
-        ![image](https://user-images.githubusercontent.com/116808294/208333552-ecdff1cb-2692-4964-8a58-cdcd2e4c0940.png)
+    SECCIÓN 9–2 MÉTODO DE LA CORRIENTE EN RAMAS 
+    
+    12.	RESUELVA PARA CADA UNA DE LAS CORRIENTES DE RAMA ILUSTRADAS EN LA FIGURA 9-26.
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153751-71b1b9e4-388c-483e-9917-930343d743da.png)
+    
+    14.	DETERMINE LA CORRIENTE A TRAVÉS DE CADA RESISTOR MOSTRADO EN LA FIGURA 9-27 
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153771-a3555e9b-7965-4098-809a-0baa573ce3c9.png)
+
+    SECCIÓN 9–3 MÉTODO DE LA CORRIENTE EN LAZOS
+    
+    16.	ESCRIBA EL DETERMINANTE CARACTERÍSTICO PARA LAS ECUACIONES:
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153784-fb19f3b3-3276-4bfc-afdf-9d6b25ef23b0.png)
+
+    18.	DETERMINE LAS CORRIENTES DE RAMA EN LA FIGURA 9-28. 
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153812-5f89a2a5-d6f8-4ba8-9743-0361f06246f9.png)
+    
+    20.	ESCRIBA LAS ECUACIONES DE LAZO PARA EL CIRCUITO DE LA FIGURA 9-29.
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153843-6c7a3c53-8bc6-48fc-bd01-535256038d7d.png)
+
+    22.	DETERMINE LA CORRIENTE A TRAVÉS DE CADA RESISTOR EN LA FIGURA 9-29
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153855-a1b4bb78-dfcb-44d2-87ff-a85e0ef1900a.png)
+    
+    24.	CUANDO SE CONECTA UN RESISTOR DE 10 KÆ DESDE LA TERMINAL A HASTA LA TERMINAL B EN LA FIGURA 9-30, ¿CUÁL ES LA CORRIENTE QUE CIRCULA A TRAVÉS DE ÉL?   
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153874-04c01dd7-c5d3-431b-b3e7-ffeaeeb6a472.png)
+
+    SECCIÓN 9–4 MÉTODO DEL VOLTAJE EN NODOS
+
+    26.	EN LA FIGURA 9-32, USE EL MÉTODO DEL VOLTAJE EN NODOS PARA DETERMINAR EL VOLTAJE PRESENTE EN EL PUNTO A CON RESPECTO A TIERRA.
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210153903-36f93afb-1d03-4933-b0a0-90124767941f.png)
+  
+    28.	ESCRIBA LAS ECUACIONES DE VOLTAJE DE NODO PARA LA FIGURA 9-29. USE SU CALCULADORA PARA DETERMINAR LOS VOLTAJES DE NODO.
         
-    4. 	En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente
-    
-        ![image](https://user-images.githubusercontent.com/116808294/208333733-04076880-46f8-4f76-9581-28cfbf876e75.png)
+        ![image](https://user-images.githubusercontent.com/116808294/210154213-5e5a60a1-8ea8-497a-8ebc-45d90618e1d7.png)
         
-        ![image](https://user-images.githubusercontent.com/116808294/208333788-ca4d900a-aa1c-46a3-ac82-bfa602a0175c.png)
-    
-    6.	Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
-    
-        ![image](https://user-images.githubusercontent.com/116808294/208333804-46ce55b0-bf86-4e8f-b08b-ccb3b4758276.png)
+    30. DETERMINE EL VOLTAJE EN LOS PUNTOS A, B Y C EN LA FIGURA 9-34.   
         
-        ![image](https://user-images.githubusercontent.com/116808294/208333816-67410d96-2b79-47ed-8cd2-6a4e44947a9c.png)
+        ![image](https://user-images.githubusercontent.com/116808294/210154242-88238d3f-3e63-4645-8871-700a1b0a4494.png)
+        
+        ![image](https://user-images.githubusercontent.com/116808294/210154259-0c6b3d23-b2fc-4125-a600-d0fa63940989.png)
+    
+    CAPITULO 10
+    
+    SECCIÓN 10–1 EL CAMPO MAGNÉTICO 
+    
+    2.	EN CIERTO CAMPO MAGNÉTICO, EL ÁREA DE SECCIÓN TRANSVERSAL ES DE 0.5 M2 Y EL FLUJO ES DE 1500 MWB. ¿CUÁL ES LA DENSIDAD DE FLUJO? 
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210154291-6a4d5ad9-277a-4325-9a4d-c1463191f7a8.png)
+    
+    4.	EN UN LUGAR DADO, SUPONGA QUE EL CAMPO MAGNÉTICO TERRESTRE ES DE 0.6 GAUSS. EXPRESE ESTA DENSIDAD DE FLUJO EN TESLAS. 
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210154304-ea161912-dcba-4433-99ee-bf73315dab5b.png)
+        
+    SECCIÓN 10–2 ELECTROMAGNETISMO
 
-    SECCIÓN 7–2 ANÁLISIS DE CIRCUITOS RESISTIVOS EN SERIE-PARALELO
+    6.	¿QUÉ LE SUCEDE A LA AGUJA DE LA BRÚJULA MOSTRADA EN LA FIGURA 10-9 CUANDO LA CORRIENTE QUE CIRCULA A TRAVÉS DEL CONDUCTOR SE INVIERTE?   
     
-    8.	Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Æ. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
+        ![image](https://user-images.githubusercontent.com/116808294/210154336-2e0674c4-3590-492d-be77-ad00e64fce39.png)
     
-        ![image](https://user-images.githubusercontent.com/116808294/208333885-0080f578-2cac-433f-98c2-73910e261058.png)
+    8.	DETERMINE LA RELUCTANCIA DE UN MATERIAL CON LONGITUD DE 0.28 M Y ÁREA DE SECCIÓN TRANSVERSAL DE 0.08 M 2 SI LA PERMEABILIDAD ABSOLUTA ES DE 〖150 X 10〗^(-7) WB/AT*M.
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210154383-2805b686-a391-4b24-8811-a662966faf22.png)
+        
+    SECCIÓN 10–3 DISPOSITIVOS ELECTROMAGNÉTICOS
+    
+    10.	DE MANERA CARACTERÍSTICA, CUANDO SE ACTIVA UN SOLENOIDE, ¿SE EXTIENDE O RETRAE EL ÉMBOLO DE IMÁN?
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210154401-40c7a622-2eb2-4f0d-abc1-1cac2ee23fa6.png)
+    
+    12.	EXPLIQUE LA SECUENCIA DE LOS EVENTOS MOSTRADOS EN EL CIRCUITO DE LA FIGURA 10-43 COMENZANDO CUANDO EL INTERRUPTOR 1 (SW1) SE CIERRA. 
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210154412-4b5b7d41-d078-440b-92c5-43abb7d689d6.png)
 
-    10.	Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
-    
-        ![image](https://user-images.githubusercontent.com/116808294/208334148-85e7f1b9-9eb2-4e50-8703-2bf7c323b1f1.png)
-    
-    12.	Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje. 
-    
-        ![image](https://user-images.githubusercontent.com/116808294/208334167-6fe48511-b3da-4b1b-b878-53820d40fdbf.png)
-    
-    14.	Determine la resistencia entre A y B en la figura 7-67 sin la fuente. 
-    
-        ![image](https://user-images.githubusercontent.com/116808294/208334198-5f57c9a3-a833-4434-ba6d-fa3c888049ac.png)
+    SECCIÓN 10–4 HISTÉRESIS MAGNÉTICA
 
-    16.	Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
+    14.	¿CUÁL ES LA FUERZA MAGNETIZANTE EN EL PROBLEMA 9 SI LA LONGITUD DEL NÚCLEO ES DE 0,2 M?
     
-        ![image](https://user-images.githubusercontent.com/116808294/208334272-f8c4146f-dc73-46e2-8c9b-0eca4df76ae6.png)
+        ![image](https://user-images.githubusercontent.com/116808294/210154442-d1bb4d81-0ffb-46d0-acc8-4d4ff46100fd.png)
+    
+    16.	EN LA FIGURA 10-44, HAY 500 VUELTAS. DETERMINE: A) H; B) F; C) B
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210154507-015cc8b3-b256-41d1-8be6-e8c5d59d08bd.png)
+        
+    SECCIÓN 10–5 INDUCCIÓN ELECTROMAGNÉTICA
 
-    18.	Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje. 
+    18.	DE ACUERDO CON LA LEY DE FARADAY, ¿QUÉ LE SUCEDE AL VOLTAJE INDUCIDO EN UNA BOBINA DADA SI LA RAZÓN DE CAMBIO DEL FLUJO MAGNÉTICO SE DUPLICA?
     
-        ![image](https://user-images.githubusercontent.com/116808294/208334313-4bd5c077-1176-42ba-ab47-5d30e6894e31.png)
+        ![image](https://user-images.githubusercontent.com/116808294/210154542-d949cf6f-b4f1-422b-970d-b87837dbf05e.png)
     
-    20.	Determine el voltaje, VAB, en la figura 7-69.
+    20.	UN CAMPO MAGNÉTICO CAMBIA A RAZÓN DE 3500   103 WB/S. ¿CUÁNTO VOLTAJE SE INDUCE EN UNA BOBINA DE 500 VUELTAS COLOCADA EN EL CAMPO MAGNÉTICO?
     
-        ![image](https://user-images.githubusercontent.com/116808294/208334360-ad9e283f-4597-457e-bcd7-3301e963de96.png)
+        ![image](https://user-images.githubusercontent.com/116808294/210154559-02430f8e-b761-4374-8d7e-07aa8fe97edf.png)
 
-    22.	En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
-    
-        ![image](https://user-images.githubusercontent.com/116808294/208334471-27456f72-c04c-488c-ac71-c69c75da3bc4.png)
-    
-    24.	Determine el valor de cada resistor mostrado en la figura 7-73.
-    
-        ![image](https://user-images.githubusercontent.com/116808294/208334584-98eeda38-c0b0-443e-b118-5dc92f17c9e8.png)
+    SECCIÓN 10–6 APLICACIONES DE LA INDUCCIÓN ELECTROMAGNÉTICA
 
-    SECCIÓN 7–3 DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
-
-    26.	La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga? 
+    22.	EN LA FIGURA 10-33, ¿POR QUÉ NO SE INDUCE VOLTAJE CUANDO EL DISCO NO ESTÁ GIRANDO?
     
+        ![image](https://user-images.githubusercontent.com/116808294/210154579-276c0a00-7de7-41d7-9b18-eb7c7a24b85b.png)
+        
+    24.	UN GENERADOR DE CD BÁSICO DE UNA ESPIRA GIRA A 60 REV/S. ¿CUÁNTAS VECES CADA SEGUNDO LLEGA EL VOLTAJE DE CD DE SALIDA A SU PICO (ALCANZA UN MÁXIMO)?
+    
+        ![image](https://user-images.githubusercontent.com/116808294/210154591-0b3490bb-7fac-477c-b45e-52b395be3a7f.png)
+        
+4. VIDEO
+
+
+5. CONCLUSIONES
+
+    •	Con la realización de esta tarea se pudo tener presentes muchos conceptos ya vistos como el caso de los métodos de resolución de circutios y otros tantos nuevos como los de magnetismo, electromagnetismo y sus inducciones. Todo esto es muy importante de aprender ya que con el paso de los temas las aplicaciones de estos cada vez son más presentes.
+
+6. BIBLIOGRAFIA
+
+    •	Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+    •	Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+
+    •	Ingaruca Orihuela, F. J. (2022). Videotutoriales para el aprendizaje de circuitos eléctricos en estudiantes del Instituto de Educación Superior Tecnológico Público Pasco.
+
+    •	Sáenz, E. M., de la Cruz, J. P., & Garzón, H. S. (2012). Fundamentos de circuitos eléctricos II. Universidad del Valle. Programa Editorial.
+
+    •	Usaola, J., Moreno, M., Hambley, A., & Sierra, M. (2003). Circuitos eléctricos. Universitario, 77.
+
